@@ -2,7 +2,7 @@
 
 ## About the Project
 
-![image](https://user-images.githubusercontent.com/52847195/113431638-099dec00-93aa-11eb-8bb3-f9500fc89d69.png)
+![image](https://user-images.githubusercontent.com/52847195/113433170-b4170e80-93ac-11eb-92b8-36c8ccea8865.png)
 
 A simple HTML and CSS website with more focus on design than my FirstWebsiteFromScratch-HTML repo project.
 
