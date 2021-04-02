@@ -2,15 +2,14 @@
 
 ## About the Project
 
-![image](https://user-images.githubusercontent.com/52847195/113434240-96e33f80-93ae-11eb-8c87-3d27a23fa9b9.png)
+![image](https://user-images.githubusercontent.com/52847195/113434442-fd685d80-93ae-11eb-8109-1ab8154c0b37.png)
 
-A HTML, CSS, and Bootstrap based website with focus on learning Bootstrap components to make the website look modern.
+A simpel HTML and CSS website with focus on design with CSS to make the website look better.
 
 ### Built With
 
 - HTML
 - CSS
-- Bootstrap
 - Atom Code Editor
 
 ## Getting Started
@@ -37,7 +36,7 @@ Recommended Atom Pakages:
 
 ## Usage
 
-- Use this project to get familiar with Bootstrap and its different components :)
+- Use this project to get familiar with CSS and its different components :)
 
 ## Contributing
 
