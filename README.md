@@ -2,14 +2,15 @@
 
 ## About the Project
 
-![image](https://user-images.githubusercontent.com/52847195/113433170-b4170e80-93ac-11eb-92b8-36c8ccea8865.png)
+![image](https://user-images.githubusercontent.com/52847195/113434240-96e33f80-93ae-11eb-8c87-3d27a23fa9b9.png)
 
-A simple HTML and CSS website with more focus on design than my FirstWebsiteFromScratch-HTML repo project.
+A HTML, CSS, and Bootstrap based website with focus on learning Bootstrap components to make the website look modern.
 
 ### Built With
 
 - HTML
 - CSS
+- Bootstrap
 - Atom Code Editor
 
 ## Getting Started
@@ -36,7 +37,7 @@ Recommended Atom Pakages:
 
 ## Usage
 
-- Use this project to get familiar with HTML and its different features :)
+- Use this project to get familiar with Bootstrap and its different components :)
 
 ## Contributing
 
